@@ -5,6 +5,10 @@
 
 > 世帯主収入とは、世帯主が勤め先（副業を含む。）から得た収入をいい、労働契約又は就業規則などにより毎月決まって支給される基本給や扶養手当、住宅手当、超過勤務手当などの「定期収入」と、その月に限って支給される報奨金、奨励金、昇給差額などの「臨時収入」と、賞与、年末手当などの「賞与」とから成る。（出典:[e-Stat](https://www.e-stat.go.jp/koumoku/koumoku_teigi/L#L3111011:~:text=%E6%9A%A6%E5%B9%B4%E5%B9%B3%E5%9D%87-,%E5%AE%9A%E3%80%80%E7%BE%A9,-%E3%81%93%E3%81%93%E3%81%A7%E3%81%84%E3%81%86%E5%8B%A4%E3%82%81%E5%85%88))
 
+## グラフ
+![図1](https://user-images.githubusercontent.com/29940264/179387347-cc49c89a-3b68-4b1f-b678-35e3d72b027d.png).  
+各都道府県の内訳は[こちら](https://docs.google.com/spreadsheets/d/1jg1ric9-51sz9WePBHXAhTze_714ikQCR4fzHIgTvP8/edit?usp=sharing)
+
 
 ## 使用データ
 - e-Stat 2020年世帯主収入（二人以上の世帯のうち勤労者世帯） 【円】 （L3111011）.  
